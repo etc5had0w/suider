@@ -10,8 +10,11 @@ all the links for exploit methods are provided from GTFObins :https://gtfobins.g
 
 ## How To Use :
 
-Copy paste this code to clone this script into your system by : 
+* Copy paste this code to clone this script into your system by : 
 `git clone https://github.com/etc5had0w/suider.git`
 
-and transfer this file to victim machine and set permission to make it executable by :
+* transfer this file to victim machine and set permission to make it executable by :
 `chmod +x suider.sh`
+
+* run the script and open the exploit method link from gtfobins!
+`./suider.sh`
