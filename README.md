@@ -1,5 +1,7 @@
 # SUIDer
 
+This script is developed to make your privilege escalation fast and reliable in linux.
+
 This tool will quickly search for exploitable binaries with SUID bit set in linux and will output the method of exploitation from GTFObins.
 
 do not totally rely on this tool as their might be some suid binaries that are not avaialbe and may require a custom exploit.
